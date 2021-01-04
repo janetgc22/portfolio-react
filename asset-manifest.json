@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.31154740.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.bd412e9c.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.bd412e9c.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.fea480c7.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.fea480c7.js.map",
+    "static/js/2.450751e6.chunk.js": "/portfolio-react/static/js/2.450751e6.chunk.js",
+    "static/js/2.450751e6.chunk.js.map": "/portfolio-react/static/js/2.450751e6.chunk.js.map",
+    "static/js/3.ce027a1d.chunk.js": "/portfolio-react/static/js/3.ce027a1d.chunk.js",
+    "static/js/3.ce027a1d.chunk.js.map": "/portfolio-react/static/js/3.ce027a1d.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.31154740.chunk.css.map": "/portfolio-react/static/css/main.31154740.chunk.css.map",
+    "static/js/2.450751e6.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.450751e6.chunk.js.LICENSE.txt",
+    "static/media/janetBW.57f0ecb6.jpg": "/portfolio-react/static/media/janetBW.57f0ecb6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fea480c7.js",
+    "static/js/2.450751e6.chunk.js",
+    "static/css/main.31154740.chunk.css",
+    "static/js/main.bd412e9c.chunk.js"
+  ]
+}
